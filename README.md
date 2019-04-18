@@ -18,7 +18,7 @@ It uses a [recurrent neural network (RNN)](https://www.tensorflow.org/versions/r
 | ------------- | --------  | -------- |
 | This repository | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [LICENSE](LICENSE) |
 | Model Code (3rd party) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [TensorFlow Models](https://github.com/tensorflow/models/blob/master/LICENSE)|
-|Data|[CCO:Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)|[US Baby Names](https://www.kaggle.com/kaggle/us-baby-names)|
+|Data|[CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)|[US Baby Names](https://www.kaggle.com/kaggle/us-baby-names)|
 
 # Quickstart
 
